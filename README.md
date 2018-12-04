@@ -1,7 +1,12 @@
 # Good-Old-Downloads (GOD)
-Good-Old-Downloads decoded decrpyted mirror from [The-Eye](https://cgs.the-eye.eu/) and [GOD](https://github.com/Good-Old-Downloads?tab=repositories).
+Good-Old-Downloads decrpyted mirror from [The-Eye](https://cgs.the-eye.eu/) and [GOD](https://github.com/Good-Old-Downloads?tab=repositories). A full mirror dump!
 
-![stack Overflow](https://raw.githubusercontent.com/CHEF-KOCH/GOD/master/GOD.jpg)
+<p align="center">
+  <img width="780" height="430" src="https://raw.githubusercontent.com/CHEF-KOCH/GOD/master/GOD.jpg">
+</p>
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Discord](https://img.shields.io/discord/418256415874875402.svg?colorA=7289da&colorB=99aab5&label=Discord&logo=discord&maxAge=60)](https://discord.me/CHEF-KOCH)
 
 # Mirror
 
