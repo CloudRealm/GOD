@@ -14,7 +14,7 @@ An up2date mirror dump can be found under the [release](https://github.com/CHEF-
 
 # Project Goal & Todo
 
-A _reboot_ would be cool right? But there are some things whhich has to be done first:
+[A reboot would be cool right?](https://old.reddit.com/r/Piracy/comments/a3d9h0/would_you_pay_2_dollars_a_month_for_a/) But there are some things whhich has to be done first:
 
 * _Maybe an own website_, if the community wants I would do it, however anti-DMCA must be guaranteed which can only be established via blockchain or self-hostin. I prefer last one.
 * Provide a search index to filter games/release data etc. 
