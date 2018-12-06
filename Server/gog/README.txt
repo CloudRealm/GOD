@@ -1,1 +1,0 @@
-Start a webserver with any application, and goto the address to visit. Alternatively, I've got it up at https://festive-jones-b87f33.netlify.com/
