@@ -14,8 +14,7 @@ You can self-host your GOD (iof you want) just start a webserver with your fav. 
 
 Alternatively if you want to use a pre-made one  [you can visit this repo](https://festive-jones-b87f33.netlify.com/).
 
-
-### Mirror
+### Database Mirror
 
 An up2date mirror dump can be found under the [release](https://github.com/CHEF-KOCH/GOD/releases) tab here on GitHub or as [plain file on Google Drive (more frequently updated)](https://drive.google.com/drive/folders/1BUaOav4t84TQIGSqBaWblFnHcb3Y2zW5?usp=sharing).
 
