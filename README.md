@@ -22,8 +22,17 @@ An up2date mirror dump can be found under the [release](https://github.com/CHEF-
 
 [A reboot would be cool right?](https://old.reddit.com/r/Piracy/comments/a3d9h0/would_you_pay_2_dollars_a_month_for_a/) But there are some things whhich has to be done first:
 
+* Maintain the database on a regular basis.
 * Provide a search index to filter games/release data etc. 
-* Automatically mirror upload in case a release/hoster is offline (ultimately every file on the server would bbe cool to ensure everyone can download the files without having the fear to get infected by some bullshit file-hoster or imposter websites.
+* Provide a donation systems (Monero etc.)
+* Compress the database
+* Check mirror links automatically and frquently and remove them automatically
+* Provide a Tor Mirror
+* Remove the index from the Google Search (robots)
+* Integrate a login system
+* Provide a CloudFlare reCAPTCHA system to avoid DOS
+* Find more maintainers
+* Add pictures, sprites and other graphics 
 
 # Credits :trophy: 
 
