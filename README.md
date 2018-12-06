@@ -20,6 +20,10 @@ An up2date mirror dump can be found under the [release](https://github.com/CHEF-
 * Provide a search index to filter games/release data etc. 
 * Automatically mirror upload in case a release/hoster is offline (ultimately every file on the server would bbe cool to ensure everyone can download the files without having the fear to get infected by some bullshit file-hoster or imposter websites.  
 
+### Server 
+
+Start a webserver with your fav application, and goto the address to visit. Alternatively, [you can use this repo](https://festive-jones-b87f33.netlify.com/).
+
 # Credits :trophy: 
 
 * mercs213/mercs215
