@@ -10,7 +10,7 @@ Good-Old-Downloads decrpyted mirror from [The-Eye](https://cgs.the-eye.eu/) and 
 
 # Server (Beta)
 
-You can self-host your GOD (iof you want) just start a webserver with your fav. application. 
+You can self-host your GOD (iof you want) just start a webserver with your fav. application. [All files are avbl. via GitLab](https://gitlab.com/CHEF-KOCH/good-old-downloads), because GitHub is a back of ~~dicks~~ flowers. 
 
 Alternatively if you want to use a pre-made one  [you can visit this repo](https://festive-jones-b87f33.netlify.com/).
 
