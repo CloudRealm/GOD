@@ -20,7 +20,7 @@ An up2date mirror dump can be found under the [release](https://github.com/CHEF-
 
 # Project Goal & Todo
 
-[A reboot would be cool right?](https://old.reddit.com/r/Piracy/comments/a3d9h0/would_you_pay_2_dollars_a_month_for_a/) But there are some things whhich has to be done first:
+[A reboot would be cool right?](https://old.reddit.com/r/Piracy/comments/a3d9h0/would_you_pay_2_dollars_a_month_for_a/) But there are some things which has to be done first:
 
 * Maintain the database on a regular basis.
 * Provide a search index to filter games/release data etc. 
